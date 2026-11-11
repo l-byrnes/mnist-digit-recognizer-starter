@@ -1,0 +1,8 @@
+# Intended for Python 3.14. TensorFlow prerelease is required if stable builds do not support it.
+--pre
+tensorflow==2.22.0rc0
+numpy
+pandas
+matplotlib
+scikit-learn
+ipykernel
